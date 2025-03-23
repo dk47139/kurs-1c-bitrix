@@ -1,0 +1,288 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C400i%2C700
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://kurs-1c-bitrix.vercel.app/
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/chel
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\chel.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/ekb
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\ekb.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/kazan
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\kazan.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/krsn
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\krsn.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/nasha-komanda-redaktsiya
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\nasha-komanda-redaktsiya.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/nn
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\nn.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/nsk
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\nsk.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/politika-ispolzovaniya-cookies
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\politika-ispolzovaniya-cookies.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/politika-konfidentsialnosti
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\politika-konfidentsialnosti.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/polzovatelskoe-soglashenie
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\polzovatelskoe-soglashenie.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/rostov
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\rostov.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/samara
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\samara.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/soglasie-na-obrabotku-personalnyh-dannyh
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\soglasie-na-obrabotku-personalnyh-dannyh.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/spb
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\spb.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/ufa
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\ufa.html
+Content Type: text/html
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/cache/min/1/51054fedb78ac276764c4f83ca79c5ef.css
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\cache\min\1\51054fedb78ac276764c4f83ca79c5ef.css
+Content Type: text/css
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/cache/min/1/9403eff1ab1fcd18899c8cf191df5470.js
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\cache\min\1\9403eff1ab1fcd18899c8cf191df5470.js
+Content Type: application/x-javascript
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/cache/min/1/b44e1692ac2628ec85ddd31892595b7a.js
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\cache\min\1\b44e1692ac2628ec85ddd31892595b7a.js
+Content Type: application/x-javascript
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/plugins/cookie-law-info/images/td_back.gif
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\plugins\cookie-law-info\images\td_back.gif
+Content Type: image/gif
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/fonts/wpshop-core.eot
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\fonts\wpshop-core.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/fonts/wpshop-core.svg
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\fonts\wpshop-core.svg
+Content Type: image/svg+xml
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/fonts/wpshop-core.ttf
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\fonts\wpshop-core.ttf
+Content Type: application/octet-stream
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/fonts/wpshop-core.woff
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\fonts\wpshop-core.woff
+Content Type: application/font-woff
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/images/preset-customize-shapes-1.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\images\preset-customize-shapes-1.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/images/preset-customize-shapes-2.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\images\preset-customize-shapes-2.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/images/preset-shapes-1.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\images\preset-shapes-1.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/images/preset-shapes-2.jpg
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\images\preset-shapes-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/themes/reboot/assets/images/subscribe-bg.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\themes\reboot\assets\images\subscribe-bg.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/logo3-100x100.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\logo3-100x100.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/logo3.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\logo3.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/logo7.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\logo7.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-1-831x400.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-1-831x400.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-1.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-1.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-2-715x400.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-2-715x400.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-2.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-2.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-3-698x400.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-3-698x400.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-3.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-3.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-4-870x356.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-4-870x356.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-4.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-4.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-5-639x400.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-5-639x400.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-5.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-5.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-6-870x363.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-6-870x363.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-6.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-6.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-7-870x383.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-7-870x383.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-7.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-7.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-8-868x400.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-8-868x400.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-8-870x400.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-8-870x400.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-8.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-8.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted-819x400.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted-819x400.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-content/uploads/2025/03/Pasted.png
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-content\uploads\2025\03\Pasted.png
+Content Type: image/png
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/15060
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\15060
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/15062
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\15062
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/15065
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\15065
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/15067
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\15067
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/15069
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\15069
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/15446
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\15446
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16640
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16640
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16646
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16646
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16650
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16650
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16655
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16655
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16659
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16659
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16672
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16672
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16676
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16676
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16680
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16680
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16685
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16685
+Content Type: application/json
+
+Uri: https://kurs-1c-bitrix.vercel.app/wp-json/wp/v2/pages/16690
+File Name: C:\Downloaded Web Sites\kurs-1c-bitrix.vercel.app\wp-json\wp\v2\pages\16690
+Content Type: application/json
+
